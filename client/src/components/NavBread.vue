@@ -2,7 +2,7 @@
     <div class="nav-breadcrumb-wrap">
         <div class="container">
             <nav class="nav-breadcrumb">
-                <a href="/">vnshop</a>
+                <a href="/">vnshopaaaa</a>
                 <slot></slot>
             </nav>
         </div>
